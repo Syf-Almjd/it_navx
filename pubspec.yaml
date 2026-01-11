@@ -1,7 +1,9 @@
 name: it_navigates
-description: "Makes your Flutter Mobile and Web Navigation Easier 💙"
-version: 0.0.1
-homepage: 
+description: "A powerful, elegant Flutter navigation package with state management, guards, animations, and comprehensive routing utilities. Makes navigation across mobile and web apps effortless!"
+version: 1.0.0
+homepage: https://github.com/syf-almjd/it_navx
+repository: https://github.com/syf-almjd/it_navx
+issue_tracker: https://github.com/syf-almjd/it_navx/issues 
 
 environment:
   sdk: ^3.5.0
